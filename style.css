@@ -1,0 +1,31 @@
+*{
+    margin: 5;
+    padding: 15;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    width: 80;vw;
+    height: 40vh;
+    margin: 5em;; 
+}
+.uniformepreto{-webkit-box-shadow: 83px 20px 30px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 83px 20px 30px 0px rgba(0,0,0,0.75);
+    box-shadow: 83px 20px 30px 0px rgba(0,0,0,0.75);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.itachi img{-webkit-box-shadow: 83px 20px 30px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 83px 20px 30px 0px rgba(0,0,0,0.75);
+    box-shadow: 83px 20px 30px 0px rgba(0,0,0,0.75);
+    
+}
+    border-radius: 15em;
+    width: 50;
+
